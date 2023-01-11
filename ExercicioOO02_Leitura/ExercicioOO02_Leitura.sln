@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioOO02_Leitura", "ExercicioOO02_Leitura\ExercicioOO02_Leitura.csproj", "{403B660C-9AAE-464F-AB27-0E71365337F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403B660C-9AAE-464F-AB27-0E71365337F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403B660C-9AAE-464F-AB27-0E71365337F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403B660C-9AAE-464F-AB27-0E71365337F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403B660C-9AAE-464F-AB27-0E71365337F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F1D7EF-25B5-4EBB-A788-703BA5B16D48}
+	EndGlobalSection
+EndGlobal

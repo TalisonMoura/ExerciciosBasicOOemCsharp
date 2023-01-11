@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioOO05_Funcionario/1.0.0": {
+        "runtime": {
+          "ExercicioOO05_Funcionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioOO05_Funcionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

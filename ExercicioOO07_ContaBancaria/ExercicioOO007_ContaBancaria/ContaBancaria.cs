@@ -12,6 +12,7 @@ namespace ExercicioOO007_ContaBancaria {
         public string NumConta { get; private set; }
         public string NomeTitular { get; set; }
         public double Saldo { get; private set; }
+        
         public ContaBancaria(string numConta, string nomeTitular) {
             NumConta = numConta;
             NomeTitular = nomeTitular;

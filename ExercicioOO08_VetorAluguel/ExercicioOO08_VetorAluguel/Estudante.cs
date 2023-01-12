@@ -17,8 +17,5 @@ namespace ExercicioOO08_VetorAluguel {
         public override string ToString() {
             return Name + ", " + Email;
         }
-
-
-
     }
 }

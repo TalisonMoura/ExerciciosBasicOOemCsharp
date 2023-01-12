@@ -21,14 +21,6 @@ namespace ExercicioOO007_ContaBancaria {
             this(numConta, nomeTitular) {
             Deposito(depositoInicial);    /// Atribuindo a entrada do deposito diretamente para o método.                                                   
         }
-        public string Nome {
-            get { return NomeTitular; }
-            set {
-                if (value != null && value.Length > 1) {
-                    NomeTitular = value;
-                }
-            }
-        }
         public void Deposito(double valor) {
             Saldo += valor;
         }

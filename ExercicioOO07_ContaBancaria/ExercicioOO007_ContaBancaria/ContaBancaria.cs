@@ -17,10 +17,9 @@ namespace ExercicioOO007_ContaBancaria {
             NumConta = numConta;
             NomeTitular = nomeTitular;
         }
-        public ContaBancaria(string numConta, string nomeTitular, double depositoInicial) : // Alterando o nome do parametro de Saldo for depositoInicial.
+        public ContaBancaria(string numConta, string nomeTitular, double depositoInicial) : /// Alterando o nome do parametro de Saldo for depositoInicial.
             this(numConta, nomeTitular) {
-            Deposito(depositoInicial);    /// Atribuindo a entrada do deposito diretamente para o método
-                                                            
+            Deposito(depositoInicial);    /// Atribuindo a entrada do deposito diretamente para o método.                                                   
         }
         public string Nome {
             get { return NomeTitular; }

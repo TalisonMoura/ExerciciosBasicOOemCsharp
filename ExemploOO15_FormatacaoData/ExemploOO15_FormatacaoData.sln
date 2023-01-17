@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploOO15_FormatacaoData", "ExemploOO15_FormatacaoData\ExemploOO15_FormatacaoData.csproj", "{2B6DD4A8-764A-49BD-85DE-CE440B1E7B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6DD4A8-764A-49BD-85DE-CE440B1E7B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6DD4A8-764A-49BD-85DE-CE440B1E7B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6DD4A8-764A-49BD-85DE-CE440B1E7B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6DD4A8-764A-49BD-85DE-CE440B1E7B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C992299-EBBD-4FA3-8850-304E9F2CF49E}
+	EndGlobalSection
+EndGlobal
